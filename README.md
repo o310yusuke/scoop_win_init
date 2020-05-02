@@ -14,8 +14,10 @@
 - 05_vscode.ps1 : IDEとしてMicrosoftのVSCodeを使いたいめ、インストール
     - 拡張機能のディレクトリをユーザフォルダにしたく、ポータル版を利用
 - 10_markdown.ps1 : VSCodeでmarkdownを利用するためのツールをインストール
-- 20_java_middle.ps1 : 
-- 21_java_springboot.ps1 : 
+- 20_java_middle.ps1 : tomcatでWebアプリを開発できるようにjdkとtomcatをインストール
+    - JDK： OracleJDK
+    - VSCodeExtensionも必要に応じて
+- 21_java_springboot.ps1 : SpringBootを用いた開発ができるようにVSCodeExtension含め関連ツールをインストール
 - 30_python_middle.ps1 : 
 - 40_ruby_middle.ps1 : 
 - 50_powershell.ps1 : 
