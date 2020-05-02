@@ -18,10 +18,10 @@
     - JDK： OracleJDK
     - VSCodeExtensionも必要に応じて
 - 21_java_springboot.ps1 : SpringBootを用いた開発ができるようにVSCodeExtension含め関連ツールをインストール
-- 30_python_middle.ps1 : 
-- 40_ruby_middle.ps1 : 
-- 50_powershell.ps1 : 
-- 90_other.ps1 : 
+- 30_python_middle.ps1 : pythonの開発環境をインストール（pipのupgradeも）
+- 40_ruby_middle.ps1 : rubyの開発環境をインストール
+- 50_powershell.ps1 : Powershellの開発環境をインストール
+- 90_other.ps1 : その他、便利ツールのインストール
 - README.md : 本ファイル
 
 ## 利用方法
