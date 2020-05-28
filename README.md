@@ -30,3 +30,7 @@
     - 02_sccop_utils.ps1
     - 05_vscode.ps1
 - 必要に応じて、他のスクリプトをpowershellで実行
+    - 下記のように実行する
+        ```sh
+        powershell -NoProfile -ExecutionPolicy remotesigned .\xxxx.ps1
+        ```
