@@ -14,6 +14,7 @@
 - 05_vscode.ps1 : IDEとしてMicrosoftのVSCodeを使いたいめ、インストール
     - 拡張機能のディレクトリをユーザフォルダにしたく、ポータル版を利用
 - 10_markdown.ps1 : VSCodeでmarkdownを利用するためのツールをインストール
+- 11_markdown2pdf.ps1 : markdownからスライド（PDF）を作るための拡張機能をインストール
 - 20_java_middle.ps1 : tomcatでWebアプリを開発できるようにjdkとtomcatをインストール
     - JDK： OracleJDK
     - VSCodeExtensionも必要に応じて
@@ -34,3 +35,6 @@
         ```sh
         powershell -NoProfile -ExecutionPolicy remotesigned .\xxxx.ps1
         ```
+
+## 参考サイト
+- [eclipse plugin install command](https://stackoverrun.com/ja/q/4139613)
