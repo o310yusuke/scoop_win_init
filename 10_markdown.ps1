@@ -16,3 +16,4 @@ scoop install graphviz
 # VSCode拡張機能をインストール
 code --install-extension jebbs.plantuml
 code --install-extension shd101wyy.markdown-preview-enhanced
+code --install-extension yzhang.markdown-all-in-one
