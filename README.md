@@ -36,5 +36,11 @@
         powershell -NoProfile -ExecutionPolicy remotesigned .\xxxx.ps1
         ```
 
+## 独自Bucketの作り方
+社内推奨アプリを格納したいという要望があり、独自Bucketの作り方を調査した。
+その結果をまとめてみた。
+
+[HowToCreateMyBucket.md](./HowToCreateMyBucket.md)
+
 ## 参考サイト
 - [eclipse plugin install command](https://stackoverrun.com/ja/q/4139613)
